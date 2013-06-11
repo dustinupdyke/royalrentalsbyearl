@@ -1,0 +1,168 @@
+*
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+	
+body
+{
+	margin-left:0px;
+	background-color: #d9d9bf
+}
+
+a:link
+{
+	color:#29537C
+}
+
+a:visited
+{
+	 color: #29537C
+}
+
+a:active
+{
+	color:#29537C
+}
+
+a:hover
+{
+	text-decoration:none;
+	background:#29537C;
+	color:White
+}
+
+
+h3
+{
+	font-size:15px;
+}
+	
+p
+{
+	font-size: 12px;
+}
+
+li
+{
+	font-size: 12px;
+	margin-bottom:12px;
+}
+
+.site
+{
+	font-size: 10px;
+	
+}
+
+#footerright
+{
+	text-align:right
+}
+
+.footer, .footer p
+{
+	text-align:center;
+	font-size: 10px
+}
+
+#contact
+{
+	padding:10px 0px;
+	font-size: 9px
+}
+
+#content
+{
+	text-align:left; 
+	padding:10px 30px 10px 15px;
+	}
+	
+.btt
+{
+	font-size: 12px;
+	text-align:center;
+	padding:2px 0px 20px 0px;
+}
+
+.indent
+{
+	padding-left:25px;	
+	}
+	
+#sb
+{
+	padding:8px 0px 8px 14px;
+}
+
+#sb p
+{
+	font-size: 9px;
+	text-align:center;
+	font-style:italic;
+	margin:0px 10px;
+}
+
+
+.rTable * { font-size:10px;}
+
+
+.rTable TD
+{
+	vertical-align: top;
+	height: 20px;
+	padding-top: 2px;
+}
+.rHeader
+{
+	background-position: 100% 100%;
+	background-repeat: repeat-x;
+	background-color: #dae0d2;
+}
+.rHeader td{
+	padding: 4px;
+}
+.rRow0 td
+{
+	padding: 4px;
+	background-color: white;
+}
+
+.rRow1 td
+{
+	padding: 4px;
+	background-color: #E6E7E8;
+}
+
+.rRow2 td
+{
+	padding: 4px;
+	background-color: #DCDDDE;
+}
+
+.rRow3 td
+{
+	padding: 4px;
+	background-color: #D1D3D4;
+}
+
+.rRow4 td
+{
+	padding: 4px;
+	background-color: #C6C8CA;
+}
+
+.rEdit
+{
+	background-color: #F9E38B;
+}
+.rRowAlt td
+{
+	padding: 4px;
+	background-color: #E0E0E0
+}
+.rFooter td 
+{
+	background-color: #C6DBF7;
+	}
+	
+img {border:0px;}
